@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 stype="colour: red">Deployed using Jenkins, Ansible!! -2</h2>
+<h2 stype="colour: red">Lab : 2 *Deployed using Jenkins+Docker+Ansible!!* </h2>
 </body>
 </html>
